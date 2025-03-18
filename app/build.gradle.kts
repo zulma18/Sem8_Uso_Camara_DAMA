@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.sem8_uso_camara_dama"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.sem8_uso_camara_dama"
